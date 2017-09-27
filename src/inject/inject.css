@@ -1,3 +1,16 @@
 #content {
     font-size: 16px;
 }
+
+
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content img,
+#content ul,
+#content ol,
+#content p {
+    max-width: 50em;
+}
